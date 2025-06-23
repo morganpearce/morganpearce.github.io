@@ -133,40 +133,42 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Technical Skills",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Website development and markup (TEI-XML and HTML)",
+        "Digital humanities tools (Voyant Tools, Omeka, NGram Viewer, Github Pages)"
+      ]
+    }
+    {
+      "name": "Editing",
+      "keywords": [
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Middle English",
+      "fluency": "Advanced Reading",
       "icon": ""
     }
+    {
+      "language": "Old English",
+      "fluency": Advanced Reading",
+    },
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Research",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
+        "Medieval Literature",
+        "Illness Narratives",
+        "Game Studies (Narrative in games and narrative game mechanics)",
+        "Electronic Literature",
         "Quantum Communication",
         "Quantum Teleportation"
       ]
