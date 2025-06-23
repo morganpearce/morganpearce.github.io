@@ -1,18 +1,15 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Morgan Pearce",
+    "label": "MA Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "morgan.pearce@uleth.ca",
+    "phone": "(403) 969 7362",
+    "url": "https://morganpearce.github.io",
+    "summary": "MA student in English with a focus in digital humanitites methods, Chaucer, medieval literature, and game studies and theory.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "countryCode": "CA",
+      "region": "Alberta"
     },
     "profiles": [
       {
