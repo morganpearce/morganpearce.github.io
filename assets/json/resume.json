@@ -1,36 +1,26 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+  "Basics": {
+    "name": "Morgan Pearce",
+    "label": "Master's",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "morgan.pearce@uleth.ca",
+    "phone": "(403) 969-7362",
+    "url": "https://morganpearce.github.io",
+    "summary": "MA Student in English with a focus on medieval literature, digital humanities methods, and game studies and theory.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "countryCode": "CA",
+      "region": "Alberta"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
   },
-  "work": [
+  "Education": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "institution": "University of Lethbridge",
+      "location": "Lethbridge, Alberta, CA",
+      "area": "English (Anthropology Minor)",
+      "studyType": "Bachelor of Arts and Science",
+      "startDate": "September 2016",
+      "endDate": "June 2021",
+      "score": "With Great Distinction",
     }
   ],
   "volunteer": [
