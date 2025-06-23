@@ -143,15 +143,13 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Native speaker",
+      "icon": ""
     },
     {
       "language": "Middle English",
-      "fluency": "Advanced Reading"
-    },
-    {
-      "language": "Old English",
-      "fluency": Advanced Reading"
+      "fluency": "Advanced Reading",
+      "icon": ""
     }
   ],
   "interests": [
