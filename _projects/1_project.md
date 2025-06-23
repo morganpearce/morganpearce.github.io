@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: The Canterbury Tales Project
+description: The Canterbury Tales Project aims to transcribe, collate, and edit the 88 fifteen-century witnesses of the text. We have pioneered the use of digital tools for the analysis and presentation of textual data.
 img: assets/img/12.jpg
 importance: 1
 category: work
