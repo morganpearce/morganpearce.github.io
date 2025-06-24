@@ -34,18 +34,30 @@
       "highlights": ["3.86/4.00 GPA. Treasurer of English Student Society"]
     }
   ],
-  "volunteer": [
+  "Work Experience": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "position": "Research Assistant at the Canterbury Tales Project",
+      "location": "Humanitites Innovation Lab, University of Lethbridge",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "Transcribe, collate, and edit 14th-15th century Medieval manuscripts"
+    },
+    {
+      "position": "Teaching Assistant for Various Courses",
+      "location": "University of Lethbridge",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "I have marked essays, taught lectures, and generally assisted in teaching a number of courses, including Chaucer, Medieval Literature, History of English, and an independent study for a student focusing on Game Studies"
+    },
+    {
+      "position": "Copy Editor for DSCN and Digital Medievalist",
+      "location": "University of Lethbridge",
+      "url": "https://www.digitalstudies.org/",
+      "startDate": "2022",
+      "endDate": "2025",
+      "summary": "Edited and proofread articles according to Chicago 16 standards, contacted authors and potential reviewers, and met deadlines at various article stages"
     }
-  ],
+    ],
   "education": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",
