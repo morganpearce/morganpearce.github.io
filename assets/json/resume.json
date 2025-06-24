@@ -132,9 +132,9 @@
    "skills": [
     {
       "name": "Technical Skills",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "",
       "keywords": [
-         	"Website development and markup (TEI-XML and HTML)"
+         	"Website development and markup (TEI-XML and HTML)",
 	        "Digital humanities tools (Voyant Tools, Omeka, NGram Viewer, Github Pages)"
       ]
     }
