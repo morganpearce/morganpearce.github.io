@@ -442,9 +442,9 @@ ninja.data = [{
           description: "The Canterbury Tales Project aims to transcribe, collate, and edit the 88 fifteen-century witnesses of the text. We have pioneered the use of digital tools for the analysis and presentation of textual data.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-the-book-of-the-duchess",
+          title: 'The Book of the Duchess',
+          description: "A personal project in which I am using Textual Communities to transcribe and edit the 3 manuscript witnesses and the 1 early print edition of Chaucer&#39;s poem.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
@@ -487,14 +487,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%6D%6F%72%67%61%6E.%70%65%61%72%63%65@%75%6C%65%74%68.%63%61", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://orcid.org/0000-0003-1768-4501", "_blank");
         },
       },{
         id: 'social-rss',
@@ -508,14 +508,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=6ikO1akAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
