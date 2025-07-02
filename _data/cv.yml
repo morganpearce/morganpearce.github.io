@@ -9,19 +9,18 @@
 - title: Education
   type: time_table
   contents:
-      - title: MA
+    - title: MA
       institution: University of Lethbridge, Lethbridge, Alberta
       year: 2025
       description:
-        - English
-        - Supervisors: Daniel O'Donnell and Barbara Bordalejo 
-        - Thesis: 
+        - English Degree supervised by Daniel O'Donnell and Barbara Bordalejo 
+        - Thesis is on "Navigating the Labyrinth Developing a Theory of Depression Narratives with Three Texts" (Working Title)
     - title: BA
       institution: University of Lethbridge, Lethbridge, Alberta
       year: 2021
       description:
         - English with a minor in Anthropology
-        - GPA: 3.86/4.00
+        - GPA 3.86/4.00
         - Dean's List 2016-2021
 
 
