@@ -11,7 +11,7 @@
       "region": "Alberta"
     }
   },
-  "Education": [{
+  "education": [{
     "Institution": "University of Lethbridge",
     "area": "English",
     "studyType": "Master of Arts",
@@ -28,7 +28,7 @@
     "score": "With Great Distinction",
     "summary": "3.86/4.00 GPA. Treasurer of English Student Society."
     }],
-  "Work Experience": [{
+  "work": [{
     "position": "Research Assistant at the Canterbury Tales Project",
     "institution": "University of Lethbridge",
     "url": "https://www.canterburytalesproject.org/",
@@ -105,7 +105,7 @@
   {"language": "Old English",
     "fluency": "Advanced reading"
   }],
-  "Interests": [{
+  "interests": [{
     "name": "Research Interests",
     "keywords": [
       "Chaucer",
