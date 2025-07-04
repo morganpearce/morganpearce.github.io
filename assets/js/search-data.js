@@ -447,11 +447,6 @@ ninja.data = [{
           description: "A personal project in which I am using Textual Communities to transcribe and edit the 3 manuscript witnesses and the 1 early print edition of Chaucer&#39;s poem.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
